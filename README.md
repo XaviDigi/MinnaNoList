@@ -26,17 +26,16 @@ Welcome to **XaviList** – an online marketplace where users can browse, list, 
 ### 🗂️ Categories
 
 - **Browse by Categories**: Items are grouped by categories, allowing users to filter items based on their interests.  
-  ![Category Icon](https://img.icons8.com/ios/50/000000/category.png)  
+
 
 ### ✉️ Messaging System
 
 - **Inbox**: Authenticated users can check their inbox for conversations related to listed items.  
-  ![Inbox Icon](https://img.icons8.com/ios/50/000000/email-open.png)  
+ 
 
 ### 📜 Footer Links
 
 - **About, Contact, Privacy Policy, Terms of Use**: Links are available in the footer for user information.  
-  ![Links Icon](https://img.icons8.com/ios/50/000000/links.png)
 
 ---
 
