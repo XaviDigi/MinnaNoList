@@ -2,7 +2,9 @@
 
 Welcome to **XaviList** – an online marketplace where users can browse, list, and buy various items. This platform allows users to explore different categories, list new items, and manage their personal marketplace. 
 
-[![XaviList](https://xavilist.onrender.com/)](https://xavilist.onrender.com/)  
+## 🌐 Live Demo
+
+[![Live Demo](https://xavilist.onrender.com/)](https://xavilist.onrender.com/)
 
 ---
 
