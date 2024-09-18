@@ -4,7 +4,7 @@ Welcome to **XaviList** – an online marketplace where users can browse, list, 
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://xavilist.onrender.com/)](https://xavilist.onrender.com/)
+(https://xavilist.onrender.com/)](https://xavilist.onrender.com/)
 
 ---
 
