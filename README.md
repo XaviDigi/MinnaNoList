@@ -47,5 +47,6 @@ To get started with the XaviList project, follow these steps:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/xavilist.git
+   git clone https://github.com/xavidigi/xavilist.git
    cd xavilist
+   
